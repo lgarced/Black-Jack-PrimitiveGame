@@ -1,2 +1,2 @@
 # Black-Jack-PrimitiveGame
-My first intent on creating a basic game with JavaScript. 
+My first try on creating a basic game with JavaScript. 
